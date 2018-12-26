@@ -1,7 +1,9 @@
 # tf_posenet
-tensorflow for posenet
 
-## 参考以下网站内容和源码
+tf_posenet can estimate either a single pose or multiple poses in real time.
+
+
+## Refer to the following website content and source code
 
 1.  https://github.com/tensorflow/tfjs-models/
 
