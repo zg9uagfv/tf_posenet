@@ -1,6 +1,6 @@
 # tf_posenet
 
-这个是tfjs-models-posenet的python版本。在2015款的macbook pro上能够跑到12帧以上。
+这个是tfjs-models-posenet的python版本。在2015乞丐版macbook pro上能够跑到12帧。
 
 tf_posenet can estimate either a single pose or multiple poses in real time.
 
