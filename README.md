@@ -4,6 +4,9 @@
 
 tf_posenet can estimate either a single pose or multiple poses in real time.
 
+## Run
+
+python3 main.py
 
 ## Refer to the following website content and source code
 
