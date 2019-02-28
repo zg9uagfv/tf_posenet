@@ -183,6 +183,3 @@ class TestPoseNet:
                 cv2.imshow("1", orig_image)
                 cv2.waitKey(1)
                 flag, frame = cap.read()
-
-test = TestPoseNet()
-test.process()
