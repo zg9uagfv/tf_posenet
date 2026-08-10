@@ -1,3 +1,5 @@
+
+
 # tf_posenet
 
 这个是tfjs-models-posenet的python版本。在2015 macbook pro低配版上能够跑到12帧。
@@ -6,7 +8,8 @@ tf_posenet can estimate either a single pose or multiple poses in real time.
 
 ## Run
 
-python3 main.py
+1. Download the required model weights: `python3 wget.py`
+2. Run the main script: `python3 main.py`
 
 ## Refer to the following website content and source code
 
